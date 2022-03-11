@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Totality corp</string>
+    <string name="welcome_to_the_totality_corp">WELCOME To The Totality Corp</string>
+    <string name="home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="welcome_to_totality_corp">Welcome To Totality Corp</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+</resources>
